@@ -1,10 +1,15 @@
 ## Hi there 👋
+<div align="center">
+  
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
 <br>
 MY ![Visitor Count](https://profile-counter.glitch.me/luyl975/count.svg) VISITOR
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luyl975)](https://github.com/luyl975/github-readme-stats)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);小孙同学祝您今天愉快!&center=true&size=27)](https://git.io/typing-svg)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luyl975&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luyl975)](https://github.com/luyl975/github-readme-stats)
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -43,6 +48,7 @@ MY ![Visitor Count](https://profile-counter.glitch.me/luyl975/count.svg) VISITOR
 </td></tr></table>  
 
 <br/>  
+</div>
 
 <!--
 **luyl975/luyl975** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
